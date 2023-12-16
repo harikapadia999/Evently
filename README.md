@@ -1,8 +1,15 @@
 <div align="center">
   <br />
+<<<<<<< HEAD
    <a href="/" target="_blank">
       <img src="https://github.com/adrianhajdin/event_platform/assets/151519281/548975af-f0ed-4103-8834-fe93cf91862e" alt="Project Banner">
     </a>  
+=======
+   
+ <a href="/" target="_blank">
+      <img src="https://github.com/adrianhajdin/event_platform/assets/151519281/548975af-f0ed-4103-8834-fe93cf91862e" alt="Project Banner">
+    </a>   
+>>>>>>> 5e9fad0 (Project setup done.)
   <br />
 
   <div>
